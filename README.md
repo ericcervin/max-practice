@@ -1,2 +1,2 @@
 # max-practice
-simple max(msp/jitter) sketches
+simple max(msp/jitter) patches
